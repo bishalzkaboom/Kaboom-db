@@ -1,2 +1,2 @@
 # Kaboom-db
-Stored Kaboom Public Datas
+Created to Store Kaboom Public Datas
